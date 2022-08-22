@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Kamron-Z/test.git/static/css/main.d5627fc6.css",
-    "main.js": "/Kamron-Z/test.git/static/js/main.0ca85b95.js",
-    "index.html": "/Kamron-Z/test.git/index.html",
-    "main.d5627fc6.css.map": "/Kamron-Z/test.git/static/css/main.d5627fc6.css.map",
-    "main.0ca85b95.js.map": "/Kamron-Z/test.git/static/js/main.0ca85b95.js.map"
+    "main.css": "/test/static/css/main.d86a6211.css",
+    "main.js": "/test/static/js/main.0ca85b95.js",
+    "index.html": "/test/index.html",
+    "main.d86a6211.css.map": "/test/static/css/main.d86a6211.css.map",
+    "main.0ca85b95.js.map": "/test/static/js/main.0ca85b95.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5627fc6.css",
+    "static/css/main.d86a6211.css",
     "static/js/main.0ca85b95.js"
   ]
 }
